@@ -2,7 +2,7 @@
 
 **MyToken Solidity Contract**
 
-**Description**
+**Description :**
 This Solidity program implements a basic ERC-20-like token contract named MyToken. It demonstrates fundamental concepts such as token minting, burning, and balance management. The contract allows users to mint new tokens and burn existing ones, ensuring that token balances and total supply are properly managed.
 
 Getting Started
